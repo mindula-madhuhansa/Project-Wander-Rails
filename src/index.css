@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    select {
+        @apply text-xl font-bold
+    }
+
+    input {
+        @apply text-lg font-bold
+    }
+    
+    li {
+        @apply p-4
+    }
+
+    button {
+        @apply text-black bg-white rounded-3xl
+    }
+
+    ul {
+        padding: 0;
+        list-style-type: none;
+    }
+
+    .line-break {
+        white-space: pre-wrap;
+    }
+
+    .nav-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+}
