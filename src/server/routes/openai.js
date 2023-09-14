@@ -4,7 +4,7 @@ var axios = require("axios");
 var router = express.Router();
 
 router.get("/chat", async function (req, res, next) {
-  const API_KEY = "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";
+  const API_KEY = "ENTER_OPENAI_API_KEY";
   const API_URL = "https://api.openai.com/v1/chat/completions";
 
   const destination = req.query["destination"];

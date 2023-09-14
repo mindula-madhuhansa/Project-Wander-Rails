@@ -7,7 +7,7 @@ router.get("/photo", async function (req, res, next) {
   try {
     const query = req.query["query"];
 
-    const API_KEY = "AIzaSyASErZZbYOqzXTylh9o3nVmia8O1OBILE0";
+    const API_KEY = "ENTER_GOOGLE_PLACES_API_KEY";
     const response = await axios.get(
       `https://maps.googleapis.com/maps/api/place/findplacefromtext/json?inputtype=textquery&input=${query}&key=${API_KEY}&fields=photo`
     );

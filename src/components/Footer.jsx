@@ -85,7 +85,7 @@ export default function Footer() {
                 placeholder="Enter your email"
               />
               <button
-                className="py-2 px-8 mb-2 bg-primary"
+                className="py-2 px-8 mb-2 bg-primary text-white border-2"
                 onClick={handleSubscribe}
               >
                 Subscribe
@@ -95,7 +95,7 @@ export default function Footer() {
         </div>
         <hr />
         <div className="flex flex-col max-w-[1240px] px-2 py-4 m-auto justify-between sm:flex-row text-center text-white items-center">
-          <p>2023 GPTForce, All rights reserved</p>
+          <p>Copyright © 2023 GPTForce. All rights reserved</p>
           <div className="flex justify-between sm:w-[300px] pt-4 text-2xl gap-2">
             {SocialMediaLinksArray.map((item, i) => {
               return (
