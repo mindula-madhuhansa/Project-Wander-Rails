@@ -2,7 +2,7 @@
 
 ## Introduction 🌟
 
-Project WanderRails is a powerful and user-friendly tool designed to simplify the process of planning your next adventure. This web application leverages OpenAI API to provide you with an effortless and seamless trip planning experience.
+Project WanderRails trip planning section is a powerful and user-friendly tool designed to simplify the process of planning your next adventure. This web application leverages OpenAI API to provide you with an effortless and seamless trip planning experience.
 
 ## Features 🚀
 
