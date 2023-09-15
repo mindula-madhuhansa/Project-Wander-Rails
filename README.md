@@ -69,7 +69,8 @@ To start using the Trip Planner Web App, follow these simple steps:
 	`yarn`<br/>
 	`yarn start`<br/>
 
-4. Access the web app in your browser and begin planning your next adventure. (For now, this is only hosted locally.)
+4. Access the web app in your browser and begin planning your next adventure.
+5. You need to add your own OpenAI and Google Places API Keys.
 
 ## Conclusion 🌄
 
