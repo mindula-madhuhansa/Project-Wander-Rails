@@ -79,4 +79,4 @@ Project WanderRails simplifies the process of planning your next trip. With its 
 ## Screenshots 📸
 
 ![UI of Project WanderRails WebApp](ui.jpeg)
-![Plan a trip using Project WanderRails WebApp](trip plan.jpeg)
+![Plan a trip using Project WanderRails WebApp](trip_plan.jpeg)
