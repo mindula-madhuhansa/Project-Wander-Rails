@@ -75,3 +75,8 @@ To start using the Trip Planner Web App, follow these simple steps:
 ## Conclusion 🌄
 
 Project WanderRails simplifies the process of planning your next trip. With its user-friendly interface and integration of OpenAI and Google Places APIs, it offers a comprehensive and delightful trip planning experience. Whether you're a seasoned traveler or a first-time adventurer, this web app is your ideal companion for crafting memorable journeys. 🌟✈️
+
+## Screenshots 📸
+
+![UI of Project WanderRails WebApp](ui.jpeg)
+![Plan a trip using Project WanderRails WebApp](trip plan.jpeg)
