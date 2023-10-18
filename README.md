@@ -52,26 +52,6 @@ The Trip Planner Web App was built using the following technologies:
 
 4. **Export:** If you love your trip plan, you can easily copy it to your preferred text editor for future reference or sharing.
 
-## Getting Started 🚀
-
-To start using the Trip Planner Web App, follow these simple steps:
-
-1. Clone the repository from our GitHub page.
-
-2. Install the required dependencies using Yarn.
-
-3. Run the application by executing these commands:<br/>
-	`yarn`<br/>
-	`yarn dev`<br/>
-	
-	new terminal<br/>
-	`cd src/server`<br/>
-	`yarn`<br/>
-	`yarn start`<br/>
-
-4. Access the web app in your browser and begin planning your next adventure.
-5. You need to add your own OpenAI and Google Places API Keys.
-
 ## Conclusion 🌄
 
 Project WanderRails simplifies the process of planning your next trip. With its user-friendly interface and integration of OpenAI and Google Places APIs, it offers a comprehensive and delightful trip planning experience. Whether you're a seasoned traveler or a first-time adventurer, this web app is your ideal companion for crafting memorable journeys. 🌟✈️
